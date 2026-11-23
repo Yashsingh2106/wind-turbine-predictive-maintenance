@@ -7,7 +7,7 @@ A Raspberry Pi edge node reads vibration, temperature, rotor RPM and wind speed,
 before failure. This repository contains the data analysis, the anomaly detector, the edge-node code and a web dashboard.
 
 **Live dashboard:** https://claude.ai/artifact/KLQJCUKnKUXkAvyS47Q1pk  (replay of dataset.csv; also available as `dashboard/index.html`, open it in any browser)
-**GitHub repository:** <github.com/yourname/wind-turbine-predictive-maintenance>
+**GitHub repository:** <https://github.com/Yashsingh2106/wind-turbine-predictive-maintenance.git>
 
 ## Honest scope
 - `data/dataset.csv` has **no fault examples** (`fault_label` is 0 in all 500 rows). Detectors learn *normal* behaviour and were
