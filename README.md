@@ -1,13 +1,13 @@
 # IoT Predictive Maintenance for Wind Turbines
 
-HCLTech Career Shaper Programme | III Year Industry Project 2025-26 | Project No. 5 | Embedded IoT
-Learner: Tanishq Kaushik, ABES Engineering College
+HCLTech Career Shaper Programme | IV Year Industry Project 2026-27 | Project No. 5 | Embedded IoT
+Learner: Yash Singh, ABES Engineering College
 
 A Raspberry Pi edge node reads vibration, temperature, rotor RPM and wind speed, and flags abnormal turbine behaviour
 before failure. This repository contains the data analysis, the anomaly detector, the edge-node code and a web dashboard.
 
 **Live dashboard:** https://claude.ai/artifact/KLQJCUKnKUXkAvyS47Q1pk  (replay of dataset.csv; also available as `dashboard/index.html`, open it in any browser)
-**GitHub repository:** <paste your repository link here>
+**GitHub repository:** <github.com/yourname/wind-turbine-predictive-maintenance>
 
 ## Honest scope
 - `data/dataset.csv` has **no fault examples** (`fault_label` is 0 in all 500 rows). Detectors learn *normal* behaviour and were
